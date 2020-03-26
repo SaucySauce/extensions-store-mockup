@@ -18,3 +18,5 @@ Again, couple glitches, don't look at them, focus on the big picture. I'd prefer
 
 ![UI of the local section](./extensions-local.png)
 There's barely any change aside the headerbar, everything else is as it stands, the devs did a great job at splitting the built in and manually installed and all the functions once only available through the gnome extensions website.
+
+I know the GUI is the easiest part of code development (although oddly lacking in some areas) but if something like this could be created and combined into upstream gnome shell development it would be a massive improvement to the extension system and to the minimal yet practical UX Gnome likes to boast about.
