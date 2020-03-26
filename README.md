@@ -9,7 +9,8 @@ Yes, I know I should've used the Adwaita theme but the purpose of this showcase 
 ![UI of the online store section](./extensions-store.png)
 As you can see, there are some weird rendering glitches due to Drawing, I'll be sure to notify them.
 
-![UI of the online store section](./extensions-search.png)
-Again, couple glitches, don't look at them, focus on the big picture.
+![UI of the online search section](./extensions-search.png)
+Again, couple glitches, don't look at them, focus on the big picture. I'd prefer it if the search bar was in the headerbar and it expanded from the search icon but it could end up overlapping the tabs which would be a messy nightmare. Side note, since I based on the Pamac GUI I also think the same about it, massive waste of space coming from someone who's used the same 13' 16:10 1280 by 800 monitor for almost decade.
 
-![UI of the online store section](./extensions-local.png)
+![UI of the local section](./extensions-local.png)
+There's barely any change aside the headerbar, everything else is as it stands, the devs did a great job at splitting the built in and manually installed and all the functions once only available through the gnome extensions website.
