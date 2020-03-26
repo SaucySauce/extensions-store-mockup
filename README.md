@@ -11,6 +11,7 @@ As you can see, there are some weird rendering glitches due to Drawing, I'll be 
 The description should be shown under the extension title, if too big it can be expanded by the dropdown arrow toggle which should also show the info just like the local side does. However, an image or gif of the extensions funtion should be shown when expanded.
 
 ![UI of the store order menu](./extensions-order.png)
+
 Notice the Relevance menu, doesn't make much sense to keep showing the on/off toggle of the local extensions in the online store section. In it I intend to unify the "sort by" and "compatibility" options shown in the web store into a "dropdown menu".
 Edit: Maybe in the headerbar it should be called "Sort by" and not "Relevance", the latter should be in the menu where "Short by" is shown in the mockup.
 
