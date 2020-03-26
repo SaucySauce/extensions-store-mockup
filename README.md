@@ -6,3 +6,4 @@ I used the Drawing app (https://github.com/maoschanz/drawing) to modify the scre
 
 Yes, I know I should've used the Adwaita theme but the purpose of this showcase still stands, besides I was already half way through the editing when I remembered so out of sheer laziness I'm keeping the theme (https://github.com/nana-4/materia-theme) I was using which ended up helping due to its simpler design.
 
+![UI of the online store section](./Extensions store.png)
