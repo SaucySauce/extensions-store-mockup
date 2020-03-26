@@ -8,6 +8,9 @@ Yes, I know I should've used the Adwaita theme but the purpose of this showcase 
 
 ![UI of the online store section](./extensions-store.png)
 As you can see, there are some weird rendering glitches due to Drawing, I'll be sure to notify them.
+The description should be shown under the extension title, if too big it can be expanded by the dropdown arrow toggle which should also show the info just like the local side does. However, an image or gif of the extensions funtion should be shown when expanded.
+
+Notice the Relevance menu, doesn't make much sense to keep showing the on/off toggle of the local extensions in the online store section. In it I intend to unify the "sort by" and "compatibility" options shown in the web store (future mockup coming soon since I'm not good with the technical terms and a picture is worth a thousand words).
 
 ![UI of the online search section](./extensions-search.png)
 Again, couple glitches, don't look at them, focus on the big picture. I'd prefer it if the search bar was in the headerbar and it expanded from the search icon but it could end up overlapping the tabs which would be a messy nightmare. Side note, since I based on the Pamac GUI I also think the same about it, massive waste of space coming from someone who's used the same 13' 16:10 1280 by 800 monitor for almost decade.
